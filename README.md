@@ -16,19 +16,6 @@ comprehensive HR dataset, achieving over 80% accuracy in predicting employee tur
 dashboards, highlighting attrition risks and informing strategic HR interventions. Demonstrated a data-driven approach 
 to identifying and addressing key factors influencing employee retention and enhancing organisational HR strategies. 
 
-### Optimisation of DNA Forensic Processing:
-Conducted a scenario analysis using Simul8 to implement Rapid DNA technology, significantly reducing evidence 
-processing time from 7.9 days to under 1 day in optimal conditions. Achieved a substantial ROI by modelling several
-operational enhancements, including courier services and 24/7 operations, demonstrating cost-effective strategies to 
-support faster criminal convictions. This project underscores the potential of operational adjustments and technology 
-upgrades in forensic science for streamlined evidence processing. 
-
-### Caravan Customer Dataset Analysis: 
-Employed a suite of analytical tools (SQL, RStudio, SPSS Modeler) for an in-depth analysis of a comprehensive caravan 
-customer dataset, blending data pre-processing, exploratory analysis, and predictive modelling to unveil consumer 
-behaviour insights. Developed machine learning models to forecast purchasing patterns, enabling targeted marketing 
-and product development strategies. Showcased the capability to use data analytics for strategic business decisionmaking in a competitive market landscape. 
-
 ### Supply Chain Logistics Enhancement through Predictive Modelling:
 Used cutting-edge machine learning algorithms (XGBoost, Random Forest, Linear Regression) to analyse and optimise 
 supply chain logistics, identifying cost-saving opportunities and enhancing operational efficiencies. Presented a 
