@@ -1,7 +1,7 @@
 # Analyst_portfolio
 
 ## MSc Thesis & Academic Projects
-### [MSc Thesis: Enhancing Decision-Making in IT and Manufacturing with Advanced Data Analytics](MSc Thesis)
+### MSc Thesis: Enhancing Decision-Making in IT and Manufacturing with Advanced Data Analytics
 Utilised advanced data analytics to dissect customer inquiry datasets, employing clustering algorithms for segmentation 
 and identifying inquiry cycle time as a key lever for sales conversion optimisation. Developed sophisticated Power BI 
 visualisations to distil complex datasets into actionable insights, facilitating strategic sales targeting. This work 
