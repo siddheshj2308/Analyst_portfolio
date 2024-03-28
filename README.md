@@ -7,6 +7,9 @@ and identifying inquiry cycle time as a key lever for sales conversion optimisat
 visualisations to distil complex datasets into actionable insights, facilitating strategic sales targeting. This work 
 illustrates the integration of predictive analytics and visualisation tools to advance sales prioritisation methodologies. 
 
+### UK Road Safety Data Analysis:
+Conducted a detailed analysis of UK road safety using SQL Server and Power BI, uncovering key trends in accident timings, jurisdictional and vehicle type variances, and high-risk factors like vehicle manoeuvres and driver demographics. Insights on older vehicles and motorcycles in fatal accidents informed strategic interventions. Results were distilled into actionable reports and visualisations for stakeholders, aiding in evidence-based road safety enhancements.
+
 ### Machine Learning for HR Attrition Analysis:
 Applied machine learning techniques including Random Forest, Neural Networks, and K-Nearest Neighbours to a 
 comprehensive HR dataset, achieving over 80% accuracy in predicting employee turnover. Used Power BI for dynamic 
@@ -40,6 +43,5 @@ and customer-centric marketing, emphasising the importance of data-driven approa
 as a foundational study for future research, this project showcases the power of predictive analytics in shaping retail 
 marketing strategies and customer engagement.
 
-### UK Road Safety Data Analysis:
-Conducted a detailed analysis of UK road safety using SQL Server and Power BI, uncovering key trends in accident timings, jurisdictional and vehicle type variances, and high-risk factors like vehicle manoeuvres and driver demographics. Insights on older vehicles and motorcycles in fatal accidents informed strategic interventions. Results were distilled into actionable reports and visualisations for stakeholders, aiding in evidence-based road safety enhancements.
+
 
