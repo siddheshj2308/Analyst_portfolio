@@ -9,7 +9,7 @@ and identifying inquiry cycle time as a key lever for sales conversion optimisat
 visualisations to distil complex datasets into actionable insights, facilitating strategic sales targeting. This work 
 illustrates the integration of predictive analytics and visualisation tools to advance sales prioritisation methodologies. 
 
-### UK Road Safety Data Analysis:
+### [UK Road Safety Data Analysis](https://github.com/siddheshj2308/Analyst_portfolio/tree/a727d96cae9acb37112f233ab4a0ed7c65b2b5f5/UK%20Road%20Safety%20Analysis)
 Conducted a detailed analysis of UK road safety using SQL Server and Power BI, uncovering key trends in accident timings, jurisdictional and vehicle type variances, and high-risk factors like vehicle manoeuvres and driver demographics. Insights on older vehicles and motorcycles in fatal accidents informed strategic interventions. Results were distilled into actionable reports and visualisations for stakeholders, aiding in evidence-based road safety enhancements.
 
 ### Machine Learning for HR Attrition Analysis:
