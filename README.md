@@ -1,18 +1,6 @@
 # Analyst_portfolio
 
-#Technical skills - Power BI, SQL, R studio, Microsoft Excel, Microsoft Suit, Python.
-
-# Education
-MSc in Business Analytics, University of Surrey – 2023
-Bachelors in Mechanical Engineering, Pillai HOC College of Engineering & Technology – 2018
-
-### Work Experience
-Sep 2018 – Jul 2022 Data Analyst and Estimator, Sunrise Process Equipment Private Limited
-Brought my expertise in data analysis & business intelligence to drive strategic decisions, to integrate data analytics 
-within business strategy frameworks. Harnessed the power of data to uncover market opportunities, optimise customer 
-engagement & streamline business processes.
-
-### MSc Thesis & Academic Projects
+## MSc Thesis & Academic Projects
 Enhancing Decision-Making in IT and Manufacturing with Advanced Data Analytics (Thesis):
 Utilised advanced data analytics to dissect customer inquiry datasets, employing clustering algorithms for segmentation 
 and identifying inquiry cycle time as a key lever for sales conversion optimisation. Developed sophisticated Power BI 
