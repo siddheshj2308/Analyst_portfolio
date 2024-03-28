@@ -1,11 +1,9 @@
 # Analyst_portfolio
 
 ## MSc Thesis & Academic Projects
-<<<<<<< HEAD
-### [MSc Thesis: Enhancing Decision-Making in IT and Manufacturing with Advanced Data Analytics](/Users/siddheshjadhav/Documents/GitHub/Analyst_portfolio)
-=======
-### [MSc Thesis: Enhancing Decision-Making in IT and Manufacturing with Advanced Data Analytics](MSc Thesis/ReadMe.md)
->>>>>>> 6b0fba9fcc0bf72638ad94ce9206535c4c24fc6a
+
+### [MSc Thesis: Enhancing Decision-Making in IT and Manufacturing with Advanced Data Analytics](/Analyst_portfolio/MSc Thesis)
+
 Utilised advanced data analytics to dissect customer inquiry datasets, employing clustering algorithms for segmentation 
 and identifying inquiry cycle time as a key lever for sales conversion optimisation. Developed sophisticated Power BI 
 visualisations to distil complex datasets into actionable insights, facilitating strategic sales targeting. This work 
