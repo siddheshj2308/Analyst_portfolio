@@ -25,7 +25,7 @@ predictive analytics framework for order segmentation and expense forecasting, c
 management and competitive positioning. Highlighted the transformative potential of predictive analytics in redefining 
 supply chain management practices for industry-leading performance. 
 
-### Predictive Customer Segmentation for Retail:
+### [Predictive Customer Segmentation for Retail](https://github.com/siddheshj2308/Analyst_portfolio/tree/848939285d913d120c6c1a53db02a02c8639e9b1/Predictive%20Customer%20Segmentation%20for%20Retail)
 Analysed nearly 100,000 transactions across Istanbul shopping malls, applying advanced analytics to decode consumer 
 behaviour and segment key demographic groups. Insights revealed actionable strategies for inventory diversification 
 and customer-centric marketing, emphasising the importance of data-driven approaches in retail innovation. Positioned 
