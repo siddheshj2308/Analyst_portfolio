@@ -2,7 +2,7 @@
 
 ## MSc Thesis & Academic Projects
 
-### [MSc Thesis: Enhancing Decision-Making in IT and Manufacturing with Advanced Data Analytics](/Analyst_portfolio/MSc Thesis)
+### [MSc Thesis: Enhancing Decision-Making in IT and Manufacturing with Advanced Data Analytics]([/Analyst_portfolio/MSc Thesis](https://github.com/siddheshj2308/Analyst_portfolio/tree/4397cc057ae5fdf309ec78050e64ab01b3620f84/MSc%20Thesis))
 
 Utilised advanced data analytics to dissect customer inquiry datasets, employing clustering algorithms for segmentation 
 and identifying inquiry cycle time as a key lever for sales conversion optimisation. Developed sophisticated Power BI 
