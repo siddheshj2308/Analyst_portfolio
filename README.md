@@ -18,7 +18,7 @@ comprehensive HR dataset, achieving over 80% accuracy in predicting employee tur
 dashboards, highlighting attrition risks and informing strategic HR interventions. Demonstrated a data-driven approach 
 to identifying and addressing key factors influencing employee retention and enhancing organisational HR strategies. 
 
-### Supply Chain Logistics Enhancement through Predictive Modelling:
+### [Supply Chain Logistics Enhancement through Predictive Modelling](https://github.com/siddheshj2308/Analyst_portfolio/tree/6ed2c2e061571088b9029476076707c46b785806/Supply%20Chain%20Logistic%20Enhancement%20)
 Used cutting-edge machine learning algorithms (XGBoost, Random Forest, Linear Regression) to analyse and optimise 
 supply chain logistics, identifying cost-saving opportunities and enhancing operational efficiencies. Presented a 
 predictive analytics framework for order segmentation and expense forecasting, contributing to superior budget 
