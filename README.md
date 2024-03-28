@@ -32,7 +32,7 @@ and customer-centric marketing, emphasising the importance of data-driven approa
 as a foundational study for future research, this project showcases the power of predictive analytics in shaping retail 
 marketing strategies and customer engagement.
 
-### Enhancing DNA Forensic Processing:
+### [Enhancing DNA Forensic Processing](https://github.com/siddheshj2308/Analyst_portfolio/tree/15ea555a502312dbb06b7f22d0a82d446670cd01/Enhancing%20DNA%20Forensic%20Processing)
 Conducted a scenario analysis using Simul8 to implement Rapid DNA technology, significantly reducing evidence processing time from 7.9 days to under 1 day in optimal conditions. Achieved a substantial ROI by modelling several operational enhancements, including courier services and 24/7 operations, demonstrating cost-effective strategies to support faster criminal convictions. This project underscores the potential of operational adjustments and technology upgrades in forensic science for streamlined evidence processing.  
 
 
