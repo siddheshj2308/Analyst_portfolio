@@ -4,7 +4,6 @@
 
 ### [MSc Thesis: Enhancing Decision-Making in IT and Manufacturing with Advanced Data Analytics](https://github.com/siddheshj2308/Analyst_portfolio/tree/4397cc057ae5fdf309ec78050e64ab01b3620f84/MSc%20Thesis)
 
-![MSc_Thesis_1](https://github.com/siddheshj2308/Analyst_portfolio/assets/164563942/815aa481-0602-4238-9443-b2f47378d165)
 - Leveraged advanced data analytics techniques to analyse customer inquiry datasets.
 - Employed clustering algorithms to segment the data effectively.
 - Identified inquiry cycle time as a pivotal factor for optimising sales conversion.
