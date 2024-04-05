@@ -19,7 +19,7 @@
 
 ### [UK Road Safety Data Analysis](https://github.com/siddheshj2308/Analyst_portfolio/tree/a727d96cae9acb37112f233ab4a0ed7c65b2b5f5/UK%20Road%20Safety%20Analysis)
 
-[Road_Safety_Analysis.pdf](https://github.com/siddheshj2308/Analyst_portfolio/files/14825359/Road_Safety_Analysis.pdf)
+[Road_Safety_Analysis.pdf](https://github.com/siddheshj2308/Analyst_portfolio/files/14886079/Road_Safety_Analysis.pdf)
 - Analyzed UK road safety data using SQL Server and Power BI.
 - Uncovered trends in accident timings, jurisdictional variances, and vehicle types.
 - Identified high-risk factors including vehicle maneuvers and driver demographics.
